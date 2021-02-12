@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LocalizeMeApp
+
+  Created by Dmitriy Kara on 12.02.2021.
+  
+*/
+
+"CFBundleName" = "Localize Me";

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8yv-ZT-URe"; */
+"8yv-ZT-URe.text" = "Label";
+
+/* Class = "UILabel"; text = "First"; ObjectID = "E1h-Az-qAi"; */
+"E1h-Az-qAi.text" = "Premier";
+
+/* Class = "UILabel"; text = "Second"; ObjectID = "Y5h-3W-wHY"; */
+"Y5h-3W-wHY.text" = "Deuxième";
+
+/* Class = "UILabel"; text = "Fifth"; ObjectID = "hrj-TV-PVU"; */
+"hrj-TV-PVU.text" = "Cinquième";
+
+/* Class = "UILabel"; text = "Fourth"; ObjectID = "ia9-v2-ND6"; */
+"ia9-v2-ND6.text" = "Quatrième";
+
+/* Class = "UILabel"; text = "Third"; ObjectID = "y4t-7J-FZi"; */
+"y4t-7J-FZi.text" = "Troisième";
